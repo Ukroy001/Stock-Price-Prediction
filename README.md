@@ -36,9 +36,10 @@ This project demonstrates a **basic machine learning approach** to predict stock
    python stock_prediction.py
 ---
 
-##📊 Example Output
-  -Model Accuracy is displayed in the terminal.
-  -A chart will pop up showing actual vs. predicted stock prices:
+##📊 Example Output;
+
+      -Model Accuracy is displayed in the terminal.
+      -A chart will pop up showing actual vs. predicted stock prices:
 
   ---
 
