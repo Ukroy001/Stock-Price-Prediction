@@ -36,14 +36,14 @@ This project demonstrates a **basic machine learning approach** to predict stock
    python stock_prediction.py
 ---
 
-##📊 Example Output;
+## 📊 Example Output:
 
       -Model Accuracy is displayed in the terminal.
       -A chart will pop up showing actual vs. predicted stock prices:
 
   ---
 
-  ##⚠️ Limitations:
+  ## ⚠️ Limitations:
   ```
       1.Linear Regression is too simple: Stock prices are influenced by complex factors (news, market sentiment, global events) not captured here.
     
