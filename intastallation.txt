@@ -1,0 +1,5 @@
+pip install pandas numpy matplotlib scikit-learn yfinance
+
+it uses linear regression and yahoo finance 
+but the prediction is very bad if we compare with real life stock data so we have to do some
+advance project on this.
